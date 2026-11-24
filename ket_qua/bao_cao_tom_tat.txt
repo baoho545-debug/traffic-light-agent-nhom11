@@ -1,0 +1,23 @@
+BAO CAO MO PHONG TAC TU DIEU KHIEN DEN GIAO THONG
+=======================================================
+Thoi gian mo phong moi lan: 3600 giay
+So lan lap moi muc: 20
+Mo hinh xe den: phan phoi Poisson
+Chi so chinh: thoi gian cho trung binh cua moi xe
+
+Thap:
+  Co dinh: 12.22 giay
+  Phan xa: 10.17 giay
+  Giam: 16.79%
+
+Trung binh:
+  Co dinh: 15.34 giay
+  Phan xa: 13.08 giay
+  Giam: 14.71%
+
+Cao:
+  Co dinh: 66.53 giay
+  Phan xa: 51.63 giay
+  Giam: 22.40%
+
+Luu y: day la ket qua mo phong hoc tap, khong phai du lieu giao thong thuc te.
